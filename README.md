@@ -10,9 +10,9 @@ These labs will remain available after AWS Innovate Data Edition **You can do th
 
 # [Orchestrate data processing with Step Functions and the Redshift Data API](https://github.com/joshtow/Orchestrate-Data-Pipeline-with-Step-Functions)
 
-In this lab, we explain how to use AWS Step Functions to orchestrate actions in your Amazon Redshift data warehouse using Amazon Redshift Data API. We create and use a Step Function model to load data to a data lake, catalog and prepare the data, load the data into Amazon Redshift and create data queries spanning the data warehouse and data lake with Amazon Redshift Spectrum.
+In this lab, we'll show you how to use AWS Step Functions to orchestrate actions in your data lake and Amazon Redshift warehouse using the Redshift Data API.  We will create a Step Function model to catalog and prepare the data in the data lake, load into Amazon Redshift, aggregate daily statistics and unload the results back to the data lake.
 
-Duration: Approximately 45 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](https://github.com/joshtow/Orchestrate-Data-Pipeline-with-Step-Functions)
 
@@ -28,7 +28,7 @@ Duration: Approximately 45 minutes
 
 In this lab, we demonstrate the steps to create an Amazon Kinesis data stream which generate and load streaming data, create a materialized view, and query the stream to visualize the results.
 
-Duration: Approximately 60 minutes
+Duration: Approximately 45 minutes
 
 [View lab instructions](https://github.com/phonghuule/Real-time-analytics-with-Amazon-Redshift-streaming)
 
